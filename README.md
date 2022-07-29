@@ -1,11 +1,10 @@
 # Just Est Takeaway front-end challenge
 
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JsonServer-informational?style=flat&logo=json&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-yellowgreen)
 ![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat&logo=socket.io&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker.io-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-Npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 
 
