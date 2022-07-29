@@ -38,7 +38,7 @@ Clone the https://github.com/mail2yugi/jet-app/
 project root foler
 
 
-### `npm start`
+### `npm i`
 Install the node dependency's
 
 ### `npm start`
