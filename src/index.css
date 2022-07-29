@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: #f0f0f0;
+
+}
+
+* {
+    font-family: "emoji" !important
+}
+
+body .logo {
+    width: 75px;
+    height: 75px;
+    color: white;
+}
+
+body .logo-msg {
+    width: 35px;
+    height: 35px;
+    color: white;
+    border-radius: 50%;
+}
+
+body .footer-img {
+    height: 57px;
+    object-fit: contain;
+    width: 100%;
+}
+
+body .compute {
+    background-color: #ededed;
+    padding: 8px;
+}
+
+body .loose-icon {
+    object-fit: contain;
+    margin-left: 9rem;
+}
+
+body .winning-icon {
+    object-fit: contain;
+    padding: 5rem;
+    margin-left: 9rem;
+}
