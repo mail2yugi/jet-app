@@ -1,6 +1,6 @@
 # Just Est Takeaway front-end challenge
 
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Code-React-orange)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-yellowgreen)
