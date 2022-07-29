@@ -30,9 +30,16 @@ In your root folder where the repository is cloned, run the following commands:
  - Starting the fake DB JsonServer: `npm run start:server` 
  - Open a new terminal and type: `npm run start`. This will establish the socket connection 
 
-## Available Scripts
+## Clint Setup and Available Scripts
 
-In the project directory, you can run:
+Clone the https://github.com/mail2yugi/jet-app/ 
+
+### `cd jet-app`
+project root foler
+
+
+### `npm start`
+Install the node dependency's
 
 ### `npm start`
 
