@@ -53,7 +53,22 @@ Launches the test runner in the interactive watch mode.
 
 Builds the app for production to the `build` folder.
 
+## UI Screen References
 
+
+![image](https://user-images.githubusercontent.com/25095536/181831408-5fd4aaeb-70fc-4850-ae5f-41d08b48e23b.png)
+![image](https://user-images.githubusercontent.com/25095536/181831455-40d66a69-1b29-4b37-aa60-1ff5ad234543.png)
+
+### When Playing against CPU
+
+![image](https://user-images.githubusercontent.com/25095536/181831475-46e0905d-0add-44b5-b2b9-5665327e2887.png)
+![image](https://user-images.githubusercontent.com/25095536/181831490-b81bfa77-9701-41bd-886d-5e8ac6db9aaf.png)
+![image](https://user-images.githubusercontent.com/25095536/181831510-9c7e4d26-2ca9-492f-bf97-5899be4e7004.png)
+![image](https://user-images.githubusercontent.com/25095536/181831518-9ea3d8ab-bfcd-4c53-92a5-f90e346ec182.png)
+
+### When twos users are playing
+![image](https://user-images.githubusercontent.com/25095536/181831707-e221dea9-639a-44ec-94e4-9bcdbd56d8b7.png)
+![image](https://user-images.githubusercontent.com/25095536/181831712-e3b0a0c6-bd0e-440a-9dd3-b050af5e76ff.png)
+![image](https://user-images.githubusercontent.com/25095536/181831726-ecf3ca91-e64f-4985-93d0-dfe99717e803.png)
+![image](https://user-images.githubusercontent.com/25095536/181831736-af368852-9e78-4417-b5c8-ce8adb954d0d.png)
 ![image](https://user-images.githubusercontent.com/25095536/181830456-282e1748-6958-4c62-80ea-6688b96d2a28.png)
-
-
